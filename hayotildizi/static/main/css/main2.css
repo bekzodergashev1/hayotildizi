@@ -1,0 +1,36 @@
+home-banner-area .container-fluid {
+  color: red;
+  padding-left: 15% !important;
+}
+
+@media (max-width: 1480px) {
+  home-banner-area .container-fluid {
+    padding-left: 15px;
+    max-width: 1140px;
+  }
+}
+
+@media (max-width: 1199px) {
+  home-banner-area .container-fluid {
+    max-width: 960px;
+  }
+}
+
+@media (max-width: 991px) {
+  home-banner-area .container-fluid {
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  home-banner-area .container-fluid {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 1921px) {
+  home-banner-area .container-fluid {
+    padding-left: 29%;
+  }
+}
+/*# sourceMappingURL=main2.css.map */

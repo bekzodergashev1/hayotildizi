@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-22 15:28+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: hayotildizi/forms.py:14
+msgid "Введите ваше имя"
+msgstr "Ismingizni kiriting"
+
+#: hayotildizi/forms.py:26
+msgid "Введите ваш номер"
+msgstr "Raqamingizni kiriting"
+
+#: hayotildizi/templates/main/index.html:12
+msgid "ПОМОЖЕМ"
+msgstr "SOG'LIG'INGIZNI"
+
+#: hayotildizi/templates/main/index.html:12
+msgid "ВОССТАНОВИТЬ"
+msgstr "TIKLASHDA"
+
+#: hayotildizi/templates/main/index.html:13
+msgid "ВАШЕ"
+msgstr "YORDAM"
+
+#: hayotildizi/templates/main/index.html:13
+msgid "ЗДОРОВЬЕ"
+msgstr "BERAMIZ!"
+
+#: hayotildizi/templates/main/index.html:17
+msgid ""
+"Мы предлагаем вам натуральный лечебный продукт Hayotildizi, чтобы снизить и "
+"стандартизировать риск заболеваний."
+msgstr ""
+"Biz sizga kasalliklarning havfini kamaytirish va meyorlashtirish maqsadida "
+"ta'biy shifobaxsh HAYOTILDIZI mahsulotini taqdim etamiz."
+
+#: hayotildizi/templates/main/index.html:62
+msgid "О ПРОДУКТЕ"
+msgstr "MAHSULOT HAQIDA"
+
+#: hayotildizi/templates/main/index.html:66
+msgid ""
+"\n"
+"                            Воспользуйтесь чудом клеткообразующего "
+"растительного экстракта, который был разработан за 6\n"
+"                            лет и известен как эликсир жизни на Дальнем "
+"Востоке. Наслаждайтесь сущностью чуда создателя\n"
+"                            растительных клеток на Дальнем Востоке. Из-за "
+"большого количества гинсенозидов в женьшене\n"
+"                            было обнаружено и изучено более 600 гинсенозидов "
+"в различных типах сырого и переработанного\n"
+"                            женьшеня - Уникальное и разнообразное по "
+"терапевтическому и профилактическому воздействию,\n"
+"                            это лекарственное растение можно использовать "
+"должным образом, оказывая не только\n"
+"                            разнообразные терапевтические эффекты, но и "
+"диаметрально противоположные побочные эффекты.\n"
+"                            Например, повышение и понижение артериального "
+"давления до нормального, ускорение и\n"
+"                            замедление работы центральной нервной системы, "
+"нормализация сна и потеря сонливости,\n"
+"                            продление фазы активного бодрствования, "
+"оптимального самочувствия и выносливости при\n"
+"                            необходимости.\n"
+"                            "
+msgstr ""
+"Hayotildizi 6 yil ichida ishlab chiqilgan va uzoq Sharq hayot eliksiri "
+"sifatida tanilgan hujayra hosil qiluvchi o'simlik ekstraktining "
+"mo'jizalaridan foydalaning. Uzoq Sharqdagi hayot ixiri deb nomlanuvchi "
+"o'simlik hujayralari yaratuvchisi mo'jizasining mohiyatidan bahramand "
+"bo'lingMarkaziy asab tizimining miya faoliyatini oshiring. Ginseng tarkibida "
+"ko'p miqdordagi ginsenozidlar 600 dan ortiq ginsenozidlar har xil turdagi "
+"xom va qayta ishlangan ginsenglarda topilgan va o'rganilgan tufayli - "
+"terapevtik va profilaktik ta'sirida noyob va xilma-xil bo'lib, ushbu dorivor "
+"o'simlikdan to'g'ri foydalanish mumkin nafaqatturli xil terapevtik "
+"ta'sirlarni, balki hatto diametrli teskari ta'sirlarni ham ta'minlaydi. "
+"Masalan, qon bosimini me'yorga ko'tarish va kamaytirish, markaziy asab "
+"tizimining ishini tezlashtirish va sekinlashtirish, uyquni normallashtirish "
+"va uyquchanlikni yo'qotish, kerakli vaqtda faol bedorlik, eng yaxshi "
+"farovonlik va chidamlilik bosqichini uzaytirish."
+
+#: hayotildizi/templates/main/index.html:110
+msgid "эффекты и преимущества Ginseng extract на все органы."
+msgstr "Hayotildizi ning barcha organlarga ta'siri va foydasi."
+
+#: hayotildizi/templates/main/index.html:111
+msgid "GINSENG EXTRACT ЭФФЕКТ"
+msgstr "GINSENG EXTRACT EFEKTI"
+
+#: hayotildizi/templates/main/index.html:122
+msgid "СЕРДЕЧНО-СОСУДИСТАЯ СИСТЕМА"
+msgstr "Kardiovaskulyar tizim"
+
+#: hayotildizi/templates/main/index.html:126
+msgid ""
+"Продукт действует как регулятор вашей сердечно-сосудистой системы и "
+"устраняет все проблемы."
+msgstr ""
+"Mahsulot sizning yurak-qon tomir tizimingizda regulyator vazifasini bajaradi "
+"va barcha muamolarni bartaraf etadi"
+
+#: hayotildizi/templates/main/index.html:136
+msgid "ЖЕЛУДОЧНО-КИШЕЧНЫЙ ТРАКТ"
+msgstr "Oshqozon va ichak yo'llari"
+
+#: hayotildizi/templates/main/index.html:140
+msgid ""
+"Быстро устраняет проблемы с желудком и кишечником, удаляет скопившуюся массу."
+msgstr ""
+"Oshqozon va ichakdagi muamolarni tezda bartaraf etadi va to'planib qolgan "
+"massani chiqarib tashlaydi."
+
+#: hayotildizi/templates/main/index.html:150
+msgid "БРОНХИАЛЬНЫЕ И ЛЕГОЧНЫЕ ЗАБОЛЕВАНИЯ"
+msgstr "Bronx va o'pka kassaliklari"
+
+#: hayotildizi/templates/main/index.html:154
+msgid "Устраняет такие проблемы, как одышка и хрипы в легких."
+msgstr ""
+"O'pka yo'llaridagi nafas siqishi va xirillashlar kabi muamolarni bartaraf "
+"etadi."
+
+#: hayotildizi/templates/main/index.html:164
+msgid "ПАМЯТЬ И НЕРВНАЯ СИСТЕМА"
+msgstr "Xotira va asab tizimi"
+
+#: hayotildizi/templates/main/index.html:168
+msgid ""
+"Продукт увеличивает мозговую активность, воздействуя на центральную нервную "
+"систему."
+msgstr ""
+"Mahsulot sizning markaziy asab tizimingizga ta'sir qilish orqali miya "
+"faoliyatini oshiradi."
+
+#: hayotildizi/templates/main/index.html:178
+msgid "БАЗОВАЯ СИСТЕМА ДВИЖЕНИЯ"
+msgstr "Xarakat tayanch tizimi"
+
+#: hayotildizi/templates/main/index.html:182
+msgid ""
+"Продукт устраняет усталость, слабость и дискомфорт, а также укрепляет "
+"естественные защитные механизмы и выносливость вашего тела."
+msgstr ""
+"Mahsulot charchoqni, kuchsizlikni va bezovtalikni ketkazadi va ular sizning "
+"organizmingizning tabiiy himoya mexanizmi va chidamliligini kuchaytiradi. "
+
+#: hayotildizi/templates/main/index.html:192
+msgid "ПЕЧЕНЬ"
+msgstr "Jigar"
+
+#: hayotildizi/templates/main/index.html:196
+msgid ""
+"Он очень полезен для регенерации клеток печени и обеспечивает необходимые "
+"витамины и минералы."
+msgstr ""
+"Jigardagi xujayralarni qayta tiklashda juda katta foyda beredi va kerakli "
+"vitamin va minerallarni yetkazib beradi."
+
+#: hayotildizi/templates/main/index.html:206
+msgid "СЕКСУАЛЬНАЯ СЛАБОСТЬ"
+msgstr "Jinsiy zayiflik"
+
+#: hayotildizi/templates/main/index.html:210
+msgid "Лечит и предотвращает половое бессилие у мужчин и женщин."
+msgstr ""
+"Erkaklar va ayollarda uchraydigan jinsiy zayifklikni davolaydi va oldini "
+"oladi."
+
+#: hayotildizi/templates/main/index.html:220
+msgid "ПОЧКИ"
+msgstr "Buyraklar"
+
+#: hayotildizi/templates/main/index.html:224
+msgid ""
+"Очищает мочевыводящие пути, улучшает холестерин билирубина, уровень белка в "
+"крови."
+msgstr ""
+"Peshob kanalini tozalaydi, billirubin xolesterin, qondagi oqsil "
+"ko'rsatkichlarini yaxshilaydi."
+
+#: hayotildizi/templates/main/index.html:241
+msgid "лицензированный продукт"
+msgstr "litsenziyalangan mahsulot"
+
+#: hayotildizi/templates/main/index.html:242
+msgid "Наши"
+msgstr "Bizning"
+
+#: hayotildizi/templates/main/index.html:242
+msgid "сертификаты"
+msgstr "sertifikatlar"
+
+#: hayotildizi/templates/main/index.html:250
+#: hayotildizi/templates/main/index.html:275
+msgid "Организация 1"
+msgstr "Tashkilot 1"
+
+#: hayotildizi/templates/main/index.html:251
+#: hayotildizi/templates/main/index.html:293
+#: hayotildizi/templates/main/index.html:336
+msgid "успешно прошли сертификацию"
+msgstr "attestatsiyadan muvaffaqiyatli o'tdi"
+
+#: hayotildizi/templates/main/index.html:292
+#: hayotildizi/templates/main/index.html:317
+msgid "Организация 2"
+msgstr "Tashkilot 2"
+
+#: hayotildizi/templates/main/index.html:335
+#: hayotildizi/templates/main/index.html:361
+msgid "Организация 3"
+msgstr "Tashkilot 3"
+
+#: hayotildizi/templates/main/index.html:389
+msgid "Где нас найти?"
+msgstr "Bizni qayerdan topasiz?"
+
+#: hayotildizi/templates/main/index.html:390
+msgid "Наше"
+msgstr "Bizning"
+
+#: hayotildizi/templates/main/index.html:390
+msgid "местоположение"
+msgstr "manzil"
+
+#: hayotildizi/templates/main/index.html:425
+msgid "ND Натуральные продукты"
+msgstr "ND Tabiiy mahsulotlar"
+
+#: hayotildizi/templates/main/index.html:432
+#: hayotildizi/templates/main/index.html:547
+msgid "Город Ташкент, Учтепинский район, улица КаттаХирмон 30А"
+msgstr "Toshkent shahri, Uchtepa tumani, KattaHirmon ko'chasi 30A uy"
+
+#: hayotildizi/templates/main/index.html:439
+#: hayotildizi/templates/main/index.html:554
+msgid "Телефон: +99871 230 33 99"
+msgstr "Telefon: +99871 230-33-99"
+
+#: hayotildizi/templates/main/index.html:478
+msgid "Связаться с нами"
+msgstr "Biz bilan bog'lanish"
+
+#: hayotildizi/templates/main/index.html:485
+msgid "Заявка на бесплатную консультацию"
+msgstr "Bepul maslahat uchun ariza"
+
+#: hayotildizi/templates/main/index.html:487
+msgid ""
+"Оставьте свои данные и наш консультант свяжется с вами в течение нескольких "
+"часов"
+msgstr ""
+"Ma'lumotlaringizni qoldiring va bizning maslahatchimiz bir necha daqiqada "
+"siz bilan bog'lanadisoat"
+
+#: hayotildizi/templates/main/index.html:497
+msgid "Имя"
+msgstr "Ism"
+
+#: hayotildizi/templates/main/index.html:504
+msgid "Номер телефона"
+msgstr "Telefon raqam"
+
+#: hayotildizi/templates/main/index.html:542
+msgid "Наш адрес."
+msgstr "Bizning manzil."
+
+#: hayotildizi/templates/main/index.html:568
+msgid "Информация"
+msgstr "Ma`lumot"
+
+#: hayotildizi/templates/main/index.html:570
+msgid ""
+"Используйте чудеса экстракта растений, образующих клетки, который "
+"вырабатывается за 6 лет и известен как дальневосточный эликсир жизни."
+msgstr ""
+"Hayotildizi 6 yil ichida ishlab chiqilgan va Uzoq Sharq hayot eliksiri "
+"sifatida tanilgan hujayra hosil qiluvchi o'simlik ekstraktining "
+"mo''jizalaridan foydalaning."
+
+#: hayotildizi/templates/main/index.html:576
+msgid "Мы в социальных сетях"
+msgstr "Biz ijtimoiy tarmoqlarda"
+
+#: hayotildizi/templates/main/index.html:577
+msgid "Подпишитесь на нас и следите за новостями"
+msgstr "Bizga obuna bo'ling va yangiliklarni kuzatib boring"
+
+#: hayotildizi/templates/main/navbar.html:31
+msgid "Гавное меню"
+msgstr "Bosh menyu"
+
+#: hayotildizi/templates/main/navbar.html:32
+msgid "О продукте"
+msgstr "Mahsulot haqida"
+
+#: hayotildizi/templates/main/navbar.html:33
+msgid "Заболевания"
+msgstr "Kasalliklar"
+
+#: hayotildizi/templates/main/navbar.html:34
+msgid "Сертификаты"
+msgstr "Sertifikatlar"
+
+#: hayotildizi/templates/main/navbar.html:35
+msgid "Контакты"
+msgstr "Kontaktlar"

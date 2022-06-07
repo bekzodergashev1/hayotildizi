@@ -1,0 +1,22 @@
+home-banner-area {
+    .container-fluid {
+        color: red;
+        padding-left: 15% !important;
+        @media (max-width: 1480px) {
+          padding-left: 15px;
+          max-width: 1140px;
+        }
+        @media (max-width: 1199px) {
+          max-width: 960px;
+        }
+        @media (max-width: 991px) {
+          max-width: 720px;
+        }
+        @media (max-width: 767px) {
+          max-width: 540px;
+        }
+        @media (min-width: 1921px) {
+          padding-left: 29%;
+        }
+      }
+}
